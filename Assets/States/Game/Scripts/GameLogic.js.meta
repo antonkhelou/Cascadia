@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a2d1057e1f0450b4da850c2101185779
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mySkin: {fileID: 11400000, guid: 2896b6d8d0ff654419ee80c9436d14d4, type: 2}
+  - audioTrack: {instanceID: 0}
+  - listener: {instanceID: 0}
+  - visualPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
